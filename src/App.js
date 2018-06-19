@@ -1,5 +1,4 @@
 import React, { Component } from 'react';
-import logo from './images/eds-game.jpg';
 import EdCard from "./components/EdCard";
 import Wrapper from "./components/Wrapper";
 import Title from "./components/Title";
