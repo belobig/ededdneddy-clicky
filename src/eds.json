@@ -1,0 +1,74 @@
+[
+	{
+		"id": 1,
+		"name": "all3eds",
+		"image": "https://upload.wikimedia.org/wikipedia/en/thumb/c/ce/All_3_eds.png/200px-All_3_eds.png",
+		"clicked": false
+	},
+	{
+		"id": 2,
+		"name": "ed",
+		"image": "https://pre00.deviantart.net/a0fe/th/pre/i/2017/204/8/2/ed__edd_n_eddy___ed_by_ali_srn-dbhcjtc.png",
+		"clicked": false
+	},
+	{
+		"id": 3,
+		"name": "eddhands",
+		"image": "https://vignette.wikia.nocookie.net/edwikia/images/7/78/Double_D.png/revision/20121130120939",
+		"clicked": false
+	},
+	{
+		"id": 4,
+		"name": "edd",
+		"image": "http://i.cdn.turner.com/v5cache/CARTOON/site/Images/i22/edd_edd_174x52.png",
+		"clicked": false
+	},
+	{
+		"id": 5,
+		"name": "eddy",
+		"image": "http://i.cdn.turner.com/v5cache/CARTOON/site/Images/i22/edd_eddy_174x52.png",
+		"clicked": false
+	},
+	{
+		"id": 6,
+		"name": "nazz",
+		"image": "https://vignette.wikia.nocookie.net/edwikia/images/a/af/Nazz.1.png/revision/latest/scale-to-width-down/244?cb=20160601144148",
+		"clicked": false
+	},
+	{
+		"id": 7,
+		"name": "rolf",
+		"image": "https://vignette.wikia.nocookie.net/edwikia/images/6/64/Rolf_transparent.png/revision/latest/scale-to-width-down/283?cb=20171030001040",
+		"clicked": false
+	},
+	{
+		"id": 8,
+		"name": "kevin",
+		"image": "https://vignette.wikia.nocookie.net/edwikia/images/7/7e/Kevin_transparent_image.png/revision/latest/scale-to-width-down/323?cb=20170610062059",
+		"clicked": false
+	},
+	{
+		"id": 9,
+		"name": "sarah",
+		"image": "https://vignette.wikia.nocookie.net/edwikia/images/c/c7/Sarahjimmy7ue.png/revision/latest/scale-to-width-down/273?cb=20110815192834",
+		"clicked": false
+	},
+	{
+		"id": 10,
+		"name": "jimmy",
+		"image": "http://i.cdn.turner.com/v5cache/CARTOON/site/Images/i22/edd_jimmy_174x52.png",
+		"clicked": false
+	},
+	{
+		"id": 11,
+		"name": "johnny",
+		"image": "https://vignette.wikia.nocookie.net/edwikia/images/9/9a/Jonny2x4.png/revision/latest/scale-to-width-down/317?cb=20110815184156",
+		"clicked": false
+	},
+	{
+		"id": 12,
+		"name": "kankers",
+		"image": "https://vignette.wikia.nocookie.net/edwikia/images/6/6e/Kankers.png/revision/latest?cb=20110523011352",
+		"clicked": false
+	}
+]

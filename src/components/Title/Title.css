@@ -1,0 +1,19 @@
+.titlebox {
+  width: 100%;
+  min-height: 280px;
+  text-align: center;
+  vertical-align: center;
+  font-size: 30px;
+  color: #2A77AE;
+  margin-bottom: 15px;
+}
+
+
+.titlebox h1 {
+  margin-top: 100px;
+  font-size: 30px;
+}
+
+.titlebox p {
+  font-size: 30px;
+}
